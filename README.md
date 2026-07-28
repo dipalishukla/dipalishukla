@@ -14,7 +14,7 @@
 
 ## 📊 Featured Projects
 **Nanda Store Analysis** — Data cleaning, analysis, and interactive dashboard built in excel using PivotTables, PivotCharts, Slicers.
---  **Amazon Sales Dashboard** — Data cleaning   
+--  **Amazon Sales** — Data cleaning   
 ##  Currently Learning
 - SQL / PostgreSQL fundamentals
 - Advanced Power Query (Group By, Conditional Columns)
