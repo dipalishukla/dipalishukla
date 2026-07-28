@@ -13,8 +13,8 @@
 - **Other:** Data cleaning, data organization, dashboard building
 
 ## 📊 Featured Projects
--  **Amazon Sales Dashboard** — Data cleaning and dashboard built in Excel using PivotTables, PivotCharts, and KPIs
--  **Nanda Store Analysis** — Data cleaning, analysis, and interactive dashboard built in excel using PivotTables, PivotCharts, Slicers, 
+**Nanda Store Analysis** — Data cleaning, analysis, and interactive dashboard built in excel using PivotTables, PivotCharts, Slicers.
+--  **Amazon Sales Dashboard** — Data cleaning   
 ##  Currently Learning
 - SQL / PostgreSQL fundamentals
 - Advanced Power Query (Group By, Conditional Columns)
