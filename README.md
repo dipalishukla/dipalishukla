@@ -1,11 +1,10 @@
-### Hi there 👋 I'm Dipali (Deep) Shukla
+I'm Dipali(Deep) Shukla
 
 **Aspiring Data Analyst | Transitioning from 5 Years of Teaching Experience**
 
 ## 🙋‍♀️ About Me
-- Master of Commerce and LLB graduate, previously taught Economics at the college level for 5 years
-- Currently transitioning into data analytics, building a strong portfolio to work with clients across US, UK, Canada, and Australia
-- Bringing strong analytical, problem-solving, and communication skills from an academic background into data work
+- Master of Commerce and LLB graduate, previously taught Economics at the college level for 5 years.
+- 
 ##  Skills
 - **Excel:** PivotTables, PivotCharts,  VLOOKUP, Conditional Formatting, Nested IF, TRIM/PROPER/SUBSTITUTE
 - **Power Query:** Data cleaning, splitting columns, removing duplicates, Merge/Append basics
@@ -13,13 +12,14 @@
 - **Other:** Data cleaning, data organization, dashboard building
 
 ## 📊 Featured Projects
-**Nanda Store Analysis** — Data cleaning, analysis, and interactive dashboard built in excel using PivotTables, PivotCharts, Slicers.
---  **Amazon Sales** — Data cleaning   
+Nanda Store Analysis — Sales Data cleaning , analysis, and interactive dashboard built in excel using PivotTables, PivotCharts, Slicers.
+Amazon Sales Dataset - Messy Data cleanup Using Excel & Power Query
 ##  Currently Learning
 - SQL / PostgreSQL fundamentals
 - Advanced Power Query (Group By, Conditional Columns)
 
 ##  Connect With Me
-- Email : [shukladipali55@gmail.com] (mailto:shukladipali55@gmail.com)
+- Email : [shukladipali55[at]gmail[dot]com] (mailto:shukladipali55[at]
+- gmail[dot]com)
 
 
