@@ -1,12 +1,12 @@
-I'm Dipali(Deep) Shukla
-
+I'm Dipali (Deep) Shukla
 **Aspiring Data Analyst | Transitioning from 5 Years of Teaching Experience**
+
 
 ## 🙋‍♀️ About Me
 - Master of Commerce and LLB graduate, previously taught Economics at the college level for 5 years.
 - 
 ##  Skills
-- **Excel:** PivotTables, PivotCharts,  VLOOKUP, Conditional Formatting, Nested IF, TRIM/PROPER/SUBSTITUTE
+- **Excel:** PivotTables, PivotCharts,  VLOOKUP, Conditional Formatting, Nested IF, TRIM/PROPER/SUBSTITUTE  
 - **Power Query:** Data cleaning, splitting columns, removing duplicates, Merge/Append basics
 - **SQL / PostgreSQL:** Learning basics — queries, UPDATE statements, data import/export
 - **Other:** Data cleaning, data organization, dashboard building
